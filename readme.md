@@ -3,4 +3,4 @@
 
 Assembler usage: python2 assemblername.py filename.txt
 
-For assembly code syntax, read the ProcessorWriteup pdf.
+For assembly code syntax, read the Writeup pdf.
